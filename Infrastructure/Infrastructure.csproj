@@ -29,7 +29,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\3rdTools\Cache\RedisManager\RedisManager.csproj" />
 	  <ProjectReference Include="..\Domain\Domain.csproj" />
 	</ItemGroup>
 
